@@ -6,14 +6,24 @@ The user will be able to create an account with Google+ signin API/FaceBook API,
 
 # In Construction 
 - Authenticate 
+
   ~Google+/FacebBook
+  
 - reformat UI
+
   ~ Checklist
+  
   ~ Remove/Trash
+  
   ~ Edit
+  
 -Design
+
   ~rethink design
+  
 -Routing
+
   ~login 
+  
 
 
