@@ -17,13 +17,13 @@ The user will be able to create an account with Google+ signin API/FaceBook API,
   
   ~ Edit
   
--Design
+- Design
 
   ~rethink design
   
--Routing
+- Routing
 
-  ~login 
+ ~login 
   
 
 
