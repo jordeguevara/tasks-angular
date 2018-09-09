@@ -1,0 +1,30 @@
+
+
+
+<div *ngFor ="let event of events">
+		<div class="panel panel-default" >
+				<div class="panel-body">
+	
+				<div class="card text-center">
+					<div class="card-header">TASK</div>
+
+					<div class="card-body">
+						<h5 class="card-title">{{event.title | uppercase}}</h5>
+						<p class="card-text">{{event.description}}</p>
+							<div class="checkbox">
+								<label>
+									<input type="checkbox" ngModel name="isCompleted">
+								</label>
+							</div>
+
+					</div>
+					<div class="card-footer text-muted">2 days ago</div>
+			  	</div>
+
+
+
+
+
+			</div>
+	</div>
+</div>

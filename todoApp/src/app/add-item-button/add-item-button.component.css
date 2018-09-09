@@ -1,0 +1,22 @@
+button {
+border-radius: 75%;
+position: relative;
+left: 89%;
+}
+
+.card-header {
+    background-color: #E25D33;
+    color: black;
+}
+
+.card-body {
+    background-color: white;
+    color: black;
+}
+
+.panel-body{
+    background-color:#DCD8CF;
+   
+}
+
+.card-footer{ background-color: #DCD8CF;  color: black;}
