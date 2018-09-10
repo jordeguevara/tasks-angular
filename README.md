@@ -1,29 +1,27 @@
-# To-Do App
+# TodoApp
 
-Using Angular 4 and firebase, create an application that will take user input through forms to keep track of items(tasks) and render an interactive UI to toggle with completion of tasks.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-The user will be able to create an account with Google+ signin API/FaceBook API, that will authenticate user in order to independently save their tasks.
+## Development server
 
-# In Construction 
-- Authenticate 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-  ~Google+/FacebBook
-  
-- reformat UI
+## Code scaffolding
 
-  ~ Checklist
-  
-  ~ Remove/Trash
-  
-  ~ Edit
-  
-- Design
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-  ~rethink design
-  
-- Routing
+## Build
 
- ~login 
-  
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+## Running unit tests
 
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).

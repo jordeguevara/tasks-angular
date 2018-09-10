@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+h3 {
+	text-align: center;
+}
+
+.jumbotron {
+	background-color:#E25D33;
+}
+
+.header-title{
+	text-align: center;
+	color:  #DCD8CF;
+	font-family: 'Arvo', serif;
+	font-weight:  700;
+}
+
+.panel-heading{
+	background-color:#DCD8CF;
+}
+
+.panel-body{
+	background-color:#DCD8CF;
+}

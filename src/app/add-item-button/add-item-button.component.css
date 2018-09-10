@@ -1,0 +1,38 @@
+button {
+border-radius: 75%;
+position: relative;
+left: 89%;
+}
+
+.card-header {
+    background-color: #DCD8CF;;
+    color: black;
+}
+
+.card-body {
+    background-color: white;
+    color: black;
+}
+
+.panel-body{
+    background-color:#DCD8CF;
+   
+}
+
+.card-footer{ background-color: #DCD8CF;  color: black;}
+
+.form-check-input{
+    transform: scale(1.5);
+    margin-right: 20px;
+}
+
+.drop-desc{
+    color:#E25D33;
+    animation: blink 1s linear infinite;
+}
+
+@keyframes blink {
+    0%{opacity: 0;}
+    50%{opacity: .5;}
+    100%{opacity: 1;}
+}
